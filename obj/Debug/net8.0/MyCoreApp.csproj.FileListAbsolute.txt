@@ -32,3 +32,4 @@ C:\4th Semester\DevOps Implementation\MyCoreApp\MyCoreApp\obj\Debug\net8.0\refin
 C:\4th Semester\DevOps Implementation\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.pdb
 C:\4th Semester\DevOps Implementation\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.genruntimeconfig.cache
 C:\4th Semester\DevOps Implementation\MyCoreApp\MyCoreApp\obj\Debug\net8.0\ref\MyCoreApp.dll
+C:\4th Semester\DevOps Implementation\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.sourcelink.json
